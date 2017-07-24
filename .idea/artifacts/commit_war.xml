@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="commit:war">
+    <output-path>$PROJECT_DIR$/commit/target</output-path>
+    <root id="archive" name="commit.war">
+      <element id="artifact" artifact-name="commit:war exploded" />
+    </root>
+  </artifact>
+</component>
